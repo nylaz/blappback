@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BLAPPBackend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="blapp.war">
+      <element id="artifact" artifact-name="BLAPPBackend:war exploded" />
+    </root>
+  </artifact>
+</component>

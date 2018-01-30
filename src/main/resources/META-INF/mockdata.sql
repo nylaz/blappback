@@ -1,0 +1,1 @@
+insert into PERSISTENCEENTITY (PUBLICKEY, GOOGLEMAIL, FACEBOOKMAIL, BLACCMAIL) values ('qwerty123456', 'test@gmail.com', 'test@facebook.com', 'testuser')
